@@ -1,0 +1,20 @@
+Objective of the Project
+To develop a data-driven predictive model for analyzing house sales in King County, USA by exploring key features of the dataset, performing statistical analysis, and building machine learning models. The goal is to identify factors influencing house prices and build a robust predictive framework to estimate property values.
+
+Key Components of the Objective
+Data Exploration and Cleaning:
+
+Identify data types (dtypes).
+Remove irrelevant or redundant columns.
+Handle missing values (bedrooms, bathrooms).
+Feature Analysis:
+
+Evaluate feature distributions (e.g., floors).
+Examine the relationship between individual features and house prices (sqft_living, waterfront).
+Model Development:
+
+Build predictive models, starting with simple linear regression using single features (sqft_living) and progress to more complex models incorporating multiple features.
+Apply advanced techniques like polynomial transformations and Ridge regression to improve prediction accuracy.
+Performance Evaluation:
+
+Use R² scores to assess model performance and optimize predictive power.
